@@ -1,0 +1,4 @@
+#!/bin/bash
+TRUEKNOWLEDGE=34
+printf 128 + TRUEKNOWLEDGE %f /n
+
